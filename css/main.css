@@ -36,7 +36,6 @@ body {
   }
   .emoji {
     display: flex;
-    /* flex-wrap: 10px;  */
     padding: 10px;
     flex-direction: column;
     justify-content: space-evenly; 
